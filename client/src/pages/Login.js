@@ -12,7 +12,7 @@ const Login = () => {
     const submitHandler = async (values) => {
         try {
             setloading(true);
-            const { data } = await axios.post("/users/login", values);
+            const { data } = await axios.post("/api/v1/users/login", values);
             setloading(false);
             message.success("Login Success");
             localStorage.setItem(

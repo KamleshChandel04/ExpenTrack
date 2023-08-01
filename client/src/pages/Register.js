@@ -17,7 +17,7 @@ const Register = () => {
             setLoading(true);
             console.log(values);
 
-            await axios.post("/users/register", values);
+            await axios.post("/api/v1/users/register", values);
 
             message.success("Registration Successfull");
             setLoading(false);
