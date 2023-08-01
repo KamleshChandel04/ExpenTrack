@@ -53,12 +53,12 @@ ExpenTrack is built with the latest web technologies, making it responsive and e
 
 ## Screenshots
 
-![Screenshot 1](./client/screenshot(536).png)
+![Screenshot 1](./client/Screenshot(536).png)
 
 
-![Screenshot 2](./client/screenshot(537).png)
+![Screenshot 2](./client/Screenshot(537).png)
 
-![Screenshot 2](./client/screenshot(538).png)
+![Screenshot 3](./client/Screenshot(538).png)
 
 ## Contributing
 
