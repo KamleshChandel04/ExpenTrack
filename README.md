@@ -1,5 +1,6 @@
 # ExpenTrack - Personal Finance Management App
 
+![ExpenTrack Logo](./client/public/expense.png)
 
 ExpenTrack is a user-friendly and intuitive personal finance tool that empowers you to take control of your finances. With just a few taps, you can easily track and record your income and expenses, categorize transactions, generate detailed reports, and visualize your financial activity for better understanding and analysis.
 
