@@ -1,6 +1,6 @@
 # ExpenTrack - Personal Finance Management App
 
-![ExpenTrack Logo](/path/to/logo.png)
+![ExpenTrack Logo](./client/public/expense.png)
 
 ExpenTrack is a user-friendly and intuitive personal finance tool that empowers you to take control of your finances. With just a few taps, you can easily track and record your income and expenses, categorize transactions, generate detailed reports, and visualize your financial activity for better understanding and analysis.
 
@@ -12,7 +12,6 @@ ExpenTrack is a user-friendly and intuitive personal finance tool that empowers 
   - [Installation](#installation)
   - [Usage](#usage)
 - [How It Works](#how-it-works)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -51,14 +50,6 @@ Once the development server is up and running, access ExpenTrack through your we
 
 ExpenTrack is built with the latest web technologies, making it responsive and easy to use across various devices. It leverages a robust backend to store and manage user data securely. The frontend offers an intuitive interface for users to interact with their financial data effectively.
 
-## Screenshots
-
-![Screenshot 1](/path/to/screenshot1.png)
-
-
-![Screenshot 2](/path/to/screenshot2.png)
-
-![Screenshot 3](/path/to/screenshot2.png)
 ## Contributing
 
 We welcome contributions from the community to enhance ExpenTrack further. To contribute, follow these steps:
