@@ -38,7 +38,7 @@ Managing personal finances can be challenging, but with ExpenTrack, you can simp
 
 To get started with ExpenTrack, follow these simple steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/expen-track.git`
+1. Clone the repository: `git clone https://github.com/KamleshChandel04/expen-track.git`
 2. Navigate to the project directory: `cd expen-track`
 3. Install the required dependencies: `npm install`
 4. Start the development server: `npm start`
@@ -77,4 +77,4 @@ ExpenTrack is open-source and licensed under the [MIT License](/path/to/LICENSE)
 
 ---
 
-Thank you for choosing ExpenTrack to manage your personal finances! If you encounter any issues or have suggestions for improvements, please don't hesitate to [submit an issue](https://github.com/your-username/expen-track/issues). Happy budgeting!
+Thank you for choosing ExpenTrack to manage your personal finances! If you encounter any issues or have suggestions for improvements, please don't hesitate to [submit an issue](https://github.com/KamleshChandel04/expen-track/issues). Happy budgeting!
