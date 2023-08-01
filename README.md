@@ -12,6 +12,7 @@ ExpenTrack is a user-friendly and intuitive personal finance tool that empowers 
   - [Installation](#installation)
   - [Usage](#usage)
 - [How It Works](#how-it-works)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -49,6 +50,15 @@ Once the development server is up and running, access ExpenTrack through your we
 ## How It Works
 
 ExpenTrack is built with the latest web technologies, making it responsive and easy to use across various devices. It leverages a robust backend to store and manage user data securely. The frontend offers an intuitive interface for users to interact with their financial data effectively.
+
+## Screenshots
+
+![Screenshot 1](./client/screenshot(536).png)
+
+
+![Screenshot 2](./client/screenshot(537).png)
+
+![Screenshot 2](./client/screenshot(538).png)
 
 ## Contributing
 
