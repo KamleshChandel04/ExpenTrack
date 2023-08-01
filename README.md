@@ -54,11 +54,11 @@ ExpenTrack is built with the latest web technologies, making it responsive and e
 ## Screenshots
 
 ![Screenshot 1](/path/to/screenshot1.png)
-*Caption for Screenshot 1.*
+
 
 ![Screenshot 2](/path/to/screenshot2.png)
-*Caption for Screenshot 2.*
 
+![Screenshot 3](/path/to/screenshot2.png)
 ## Contributing
 
 We welcome contributions from the community to enhance ExpenTrack further. To contribute, follow these steps:
